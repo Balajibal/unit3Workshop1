@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 /*
-Developed by: Balaji N
-Registeration Number : 212220230006
+Developed by: Dineshkumar V
+Registeration Number : 212220230013
 */
 ```
 
